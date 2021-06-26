@@ -4,6 +4,13 @@
 
 A [Flarum](http://flarum.org) extension. Add some Twitch emoji to flarum
 
+![Immagine 2021-06-26 091416](https://user-images.githubusercontent.com/79002016/123505473-91b92800-d65f-11eb-9975-7b1bd14b3509.png)
+
+### Usage
+The actual code will display the emoji as the image above:
+
+``` !) !( !o !z !K !\\ !U !H !p !S o_O !D !F !L ```
+
 ### Installation
 
 Install with composer:
@@ -16,12 +23,11 @@ composer require justoverclock/flarum-ext-twitchmoji:"*"
 
 ```sh
 composer update justoverclock/flarum-ext-twitchmoji:"*"
-php flarum migrate
 php flarum cache:clear
 ```
 
 ### Links
 
 - [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-twitchmoji)
-- [GitHub](https://github.com/justoverclock/flarum-ext-twitchmoji)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [GitHub](https://github.com/justoverclockl/flarum-ext-twitchmoji)
+
