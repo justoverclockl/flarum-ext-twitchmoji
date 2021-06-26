@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/justoverclock/flarum-ext-twitchmoji.svg)](https://packagist.org/packages/justoverclock/flarum-ext-twitchmoji) [![Total Downloads](https://img.shields.io/packagist/dt/justoverclock/flarum-ext-twitchmoji.svg)](https://packagist.org/packages/justoverclock/flarum-ext-twitchmoji)
 
-A [Flarum](http://flarum.org) extension. Add some Twitch emoji to flarum
+A [Flarum](https://flarum.it) extension. Add some Twitch emoji to flarum
 
 ![Immagine 2021-06-26 091416](https://user-images.githubusercontent.com/79002016/123505473-91b92800-d65f-11eb-9975-7b1bd14b3509.png)
 
