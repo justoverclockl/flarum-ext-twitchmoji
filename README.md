@@ -1,6 +1,6 @@
 # TwitchMoji
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/justoverclock/flarum-ext-twitchmoji.svg)](https://packagist.org/packages/justoverclock/flarum-ext-twitchmoji) [![Total Downloads](https://img.shields.io/packagist/dt/justoverclock/flarum-ext-twitchmoji.svg)](https://packagist.org/packages/justoverclock/flarum-ext-twitchmoji)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://poser.pugx.org/justoverclock/flarum-ext-twitchmoji/v)](https://packagist.org/packages/justoverclock/flarum-ext-twitchmoji) [![Total Downloads](https://poser.pugx.org/justoverclock/flarum-ext-twitchmoji/downloads)](https://packagist.org/packages/justoverclock/flarum-ext-twitchmoji)
 
 A [Flarum](https://flarum.it) extension. Add some Twitch emoji to flarum
 
