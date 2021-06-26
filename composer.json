@@ -1,0 +1,43 @@
+{
+  "name": "justoverclock/flarum-ext-twitchmoji",
+  "description": "Add some Twitch emoji to flarum",
+  "keywords": [
+    "Twitch Emoji",
+      "emoji"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^1.0.0"
+  },
+  "require-dev": {
+    "flarum/testing": "^1.0.0"
+  },
+  "authors": [
+    {
+      "name": "Marco Colia",
+      "email": "info@flarum.it",
+      "role": "Developer",
+        "homepage": "https://flarum.it"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Justoverclock\\TwitchMoji\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "TwitchMoji",
+      "category": "",
+      "icon": {
+        "name": "far fa-grin-squint-tears",
+        "backgroundColor": "green",
+        "color": "white"
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
